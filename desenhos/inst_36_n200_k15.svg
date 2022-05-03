@@ -1,0 +1,802 @@
+<svg viewBox="-20 -20 1040 1040" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g id="Ponto_0">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="896" cy="460" r="12"></circle>
+  <text x="896" y="460" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">0</text>
+</g>
+<g id="Ponto_1">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="866" cy="540" r="12"></circle>
+  <text x="866" y="540" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">1</text>
+</g>
+<g id="Ponto_2">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="755" cy="706" r="12"></circle>
+  <text x="755" y="706" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">2</text>
+</g>
+<g id="Ponto_3">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="722" cy="597" r="12"></circle>
+  <text x="722" y="597" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">3</text>
+</g>
+<g id="Ponto_4">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="867" cy="568" r="12"></circle>
+  <text x="867" y="568" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">4</text>
+</g>
+<g id="Ponto_5">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="7" cy="767" r="12"></circle>
+  <text x="7" y="767" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">5</text>
+</g>
+<g id="Ponto_6">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="831" cy="850" r="12"></circle>
+  <text x="831" y="850" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">6</text>
+</g>
+<g id="Ponto_7">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="911" cy="350" r="12"></circle>
+  <text x="911" y="350" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">7</text>
+</g>
+<g id="Ponto_8">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="978" cy="807" r="12"></circle>
+  <text x="978" y="807" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">8</text>
+</g>
+<g id="Ponto_9">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="899" cy="39" r="12"></circle>
+  <text x="899" y="39" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">9</text>
+</g>
+<g id="Ponto_10">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="420" cy="984" r="12"></circle>
+  <text x="420" y="984" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">10</text>
+</g>
+<g id="Ponto_11">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="256" cy="565" r="12"></circle>
+  <text x="256" y="565" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">11</text>
+</g>
+<g id="Ponto_12">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="97" cy="443" r="12"></circle>
+  <text x="97" y="443" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">12</text>
+</g>
+<g id="Ponto_13">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="107" cy="681" r="12"></circle>
+  <text x="107" y="681" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">13</text>
+</g>
+<g id="Ponto_14">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="657" cy="863" r="12"></circle>
+  <text x="657" y="863" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">14</text>
+</g>
+<g id="Ponto_15">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="257" cy="119" r="12"></circle>
+  <text x="257" y="119" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">15</text>
+</g>
+<g id="Ponto_16">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="15" cy="368" r="12"></circle>
+  <text x="15" y="368" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">16</text>
+</g>
+<g id="Ponto_17">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="970" cy="994" r="12"></circle>
+  <text x="970" y="994" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">17</text>
+</g>
+<g id="Ponto_18">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="950" cy="287" r="12"></circle>
+  <text x="950" y="287" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">18</text>
+</g>
+<g id="Ponto_19">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="710" cy="202" r="12"></circle>
+  <text x="710" y="202" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">19</text>
+</g>
+<g id="Ponto_20">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="703" cy="879" r="12"></circle>
+  <text x="703" y="879" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">20</text>
+</g>
+<g id="Ponto_21">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="915" cy="945" r="12"></circle>
+  <text x="915" y="945" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">21</text>
+</g>
+<g id="Ponto_22">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="259" cy="227" r="12"></circle>
+  <text x="259" y="227" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">22</text>
+</g>
+<g id="Ponto_23">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="40" cy="299" r="12"></circle>
+  <text x="40" y="299" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">23</text>
+</g>
+<g id="Ponto_24">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="165" cy="253" r="12"></circle>
+  <text x="165" y="253" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">24</text>
+</g>
+<g id="Ponto_25">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="661" cy="447" r="12"></circle>
+  <text x="661" y="447" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">25</text>
+</g>
+<g id="Ponto_26">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="9" cy="635" r="12"></circle>
+  <text x="9" y="635" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">26</text>
+</g>
+<g id="Ponto_27">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="958" cy="535" r="12"></circle>
+  <text x="958" y="535" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">27</text>
+</g>
+<g id="Ponto_28">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="392" cy="102" r="12"></circle>
+  <text x="392" y="102" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">28</text>
+</g>
+<g id="Ponto_29">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="925" cy="212" r="12"></circle>
+  <text x="925" y="212" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">29</text>
+</g>
+<g id="Ponto_30">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="484" cy="615" r="12"></circle>
+  <text x="484" y="615" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">30</text>
+</g>
+<g id="Ponto_31">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="246" cy="946" r="12"></circle>
+  <text x="246" y="946" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">31</text>
+</g>
+<g id="Ponto_32">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="683" cy="167" r="12"></circle>
+  <text x="683" y="167" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">32</text>
+</g>
+<g id="Ponto_33">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="656" cy="601" r="12"></circle>
+  <text x="656" y="601" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">33</text>
+</g>
+<g id="Ponto_34">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="250" cy="434" r="12"></circle>
+  <text x="250" y="434" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">34</text>
+</g>
+<g id="Ponto_35">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="93" cy="615" r="12"></circle>
+  <text x="93" y="615" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">35</text>
+</g>
+<g id="Ponto_36">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="267" cy="837" r="12"></circle>
+  <text x="267" y="837" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">36</text>
+</g>
+<g id="Ponto_37">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="872" cy="992" r="12"></circle>
+  <text x="872" y="992" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">37</text>
+</g>
+<g id="Ponto_38">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="613" cy="855" r="12"></circle>
+  <text x="613" y="855" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">38</text>
+</g>
+<g id="Ponto_39">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="442" cy="554" r="12"></circle>
+  <text x="442" y="554" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">39</text>
+</g>
+<g id="Ponto_40">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="882" cy="558" r="12"></circle>
+  <text x="882" y="558" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">40</text>
+</g>
+<g id="Ponto_41">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="867" cy="357" r="12"></circle>
+  <text x="867" y="357" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">41</text>
+</g>
+<g id="Ponto_42">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="35" cy="242" r="12"></circle>
+  <text x="35" y="242" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">42</text>
+</g>
+<g id="Ponto_43">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="355" cy="403" r="12"></circle>
+  <text x="355" y="403" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">43</text>
+</g>
+<g id="Ponto_44">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="916" cy="982" r="12"></circle>
+  <text x="916" y="982" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">44</text>
+</g>
+<g id="Ponto_45">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="976" cy="77" r="12"></circle>
+  <text x="976" y="77" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">45</text>
+</g>
+<g id="Ponto_46">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="831" cy="856" r="12"></circle>
+  <text x="831" y="856" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">46</text>
+</g>
+<g id="Ponto_47">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="182" cy="512" r="12"></circle>
+  <text x="182" y="512" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">47</text>
+</g>
+<g id="Ponto_48">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="715" cy="53" r="12"></circle>
+  <text x="715" y="53" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">48</text>
+</g>
+<g id="Ponto_49">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="854" cy="814" r="12"></circle>
+  <text x="854" y="814" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">49</text>
+</g>
+<g id="Ponto_50">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="306" cy="531" r="12"></circle>
+  <text x="306" y="531" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">50</text>
+</g>
+<g id="Ponto_51">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="778" cy="42" r="12"></circle>
+  <text x="778" y="42" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">51</text>
+</g>
+<g id="Ponto_52">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="442" cy="220" r="12"></circle>
+  <text x="442" y="220" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">52</text>
+</g>
+<g id="Ponto_53">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="619" cy="892" r="12"></circle>
+  <text x="619" y="892" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">53</text>
+</g>
+<g id="Ponto_54">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="983" cy="382" r="12"></circle>
+  <text x="983" y="382" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">54</text>
+</g>
+<g id="Ponto_55">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="177" cy="333" r="12"></circle>
+  <text x="177" y="333" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">55</text>
+</g>
+<g id="Ponto_56">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="589" cy="580" r="12"></circle>
+  <text x="589" y="580" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">56</text>
+</g>
+<g id="Ponto_57">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="6" cy="164" r="12"></circle>
+  <text x="6" y="164" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">57</text>
+</g>
+<g id="Ponto_58">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="761" cy="286" r="12"></circle>
+  <text x="761" y="286" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">58</text>
+</g>
+<g id="Ponto_59">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="472" cy="57" r="12"></circle>
+  <text x="472" y="57" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">59</text>
+</g>
+<g id="Ponto_60">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="79" cy="675" r="12"></circle>
+  <text x="79" y="675" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">60</text>
+</g>
+<g id="Ponto_61">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="368" cy="563" r="12"></circle>
+  <text x="368" y="563" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">61</text>
+</g>
+<g id="Ponto_62">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="151" cy="433" r="12"></circle>
+  <text x="151" y="433" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">62</text>
+</g>
+<g id="Ponto_63">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="207" cy="220" r="12"></circle>
+  <text x="207" y="220" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">63</text>
+</g>
+<g id="Ponto_64">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="708" cy="513" r="12"></circle>
+  <text x="708" y="513" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">64</text>
+</g>
+<g id="Ponto_65">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="208" cy="606" r="12"></circle>
+  <text x="208" y="606" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">65</text>
+</g>
+<g id="Ponto_66">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="110" cy="485" r="12"></circle>
+  <text x="110" y="485" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">66</text>
+</g>
+<g id="Ponto_67">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="473" cy="447" r="12"></circle>
+  <text x="473" y="447" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">67</text>
+</g>
+<g id="Ponto_68">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="989" cy="51" r="12"></circle>
+  <text x="989" y="51" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">68</text>
+</g>
+<g id="Ponto_69">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="848" cy="924" r="12"></circle>
+  <text x="848" y="924" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">69</text>
+</g>
+<g id="Ponto_70">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="810" cy="554" r="12"></circle>
+  <text x="810" y="554" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">70</text>
+</g>
+<g id="Ponto_71">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="881" cy="777" r="12"></circle>
+  <text x="881" y="777" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">71</text>
+</g>
+<g id="Ponto_72">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="475" cy="787" r="12"></circle>
+  <text x="475" y="787" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">72</text>
+</g>
+<g id="Ponto_73">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="961" cy="73" r="12"></circle>
+  <text x="961" y="73" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">73</text>
+</g>
+<g id="Ponto_74">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="585" cy="479" r="12"></circle>
+  <text x="585" y="479" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">74</text>
+</g>
+<g id="Ponto_75">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="795" cy="147" r="12"></circle>
+  <text x="795" y="147" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">75</text>
+</g>
+<g id="Ponto_76">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="916" cy="812" r="12"></circle>
+  <text x="916" y="812" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">76</text>
+</g>
+<g id="Ponto_77">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="572" cy="765" r="12"></circle>
+  <text x="572" y="765" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">77</text>
+</g>
+<g id="Ponto_78">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="220" cy="513" r="12"></circle>
+  <text x="220" y="513" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">78</text>
+</g>
+<g id="Ponto_79">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="713" cy="593" r="12"></circle>
+  <text x="713" y="593" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">79</text>
+</g>
+<g id="Ponto_80">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="204" cy="454" r="12"></circle>
+  <text x="204" y="454" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">80</text>
+</g>
+<g id="Ponto_81">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="530" cy="256" r="12"></circle>
+  <text x="530" y="256" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">81</text>
+</g>
+<g id="Ponto_82">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="405" cy="187" r="12"></circle>
+  <text x="405" y="187" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">82</text>
+</g>
+<g id="Ponto_83">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="620" cy="434" r="12"></circle>
+  <text x="620" y="434" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">83</text>
+</g>
+<g id="Ponto_84">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="726" cy="733" r="12"></circle>
+  <text x="726" y="733" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">84</text>
+</g>
+<g id="Ponto_85">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="190" cy="666" r="12"></circle>
+  <text x="190" y="666" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">85</text>
+</g>
+<g id="Ponto_86">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="636" cy="195" r="12"></circle>
+  <text x="636" y="195" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">86</text>
+</g>
+<g id="Ponto_87">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="949" cy="795" r="12"></circle>
+  <text x="949" y="795" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">87</text>
+</g>
+<g id="Ponto_88">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="330" cy="949" r="12"></circle>
+  <text x="330" y="949" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">88</text>
+</g>
+<g id="Ponto_89">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="664" cy="811" r="12"></circle>
+  <text x="664" y="811" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">89</text>
+</g>
+<g id="Ponto_90">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="332" cy="201" r="12"></circle>
+  <text x="332" y="201" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">90</text>
+</g>
+<g id="Ponto_91">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="131" cy="801" r="12"></circle>
+  <text x="131" y="801" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">91</text>
+</g>
+<g id="Ponto_92">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="548" cy="296" r="12"></circle>
+  <text x="548" y="296" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">92</text>
+</g>
+<g id="Ponto_93">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="929" cy="951" r="12"></circle>
+  <text x="929" y="951" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">93</text>
+</g>
+<g id="Ponto_94">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="506" cy="715" r="12"></circle>
+  <text x="506" y="715" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">94</text>
+</g>
+<g id="Ponto_95">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="504" cy="329" r="12"></circle>
+  <text x="504" y="329" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">95</text>
+</g>
+<g id="Ponto_96">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="696" cy="595" r="12"></circle>
+  <text x="696" y="595" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">96</text>
+</g>
+<g id="Ponto_97">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="665" cy="622" r="12"></circle>
+  <text x="665" y="622" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">97</text>
+</g>
+<g id="Ponto_98">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="239" cy="874" r="12"></circle>
+  <text x="239" y="874" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">98</text>
+</g>
+<g id="Ponto_99">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="374" cy="589" r="12"></circle>
+  <text x="374" y="589" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">99</text>
+</g>
+<g id="Ponto_100">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="788" cy="219" r="12"></circle>
+  <text x="788" y="219" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">100</text>
+</g>
+<g id="Ponto_101">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="487" cy="913" r="12"></circle>
+  <text x="487" y="913" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">101</text>
+</g>
+<g id="Ponto_102">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="619" cy="491" r="12"></circle>
+  <text x="619" y="491" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">102</text>
+</g>
+<g id="Ponto_103">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="789" cy="834" r="12"></circle>
+  <text x="789" y="834" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">103</text>
+</g>
+<g id="Ponto_104">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="779" cy="689" r="12"></circle>
+  <text x="779" y="689" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">104</text>
+</g>
+<g id="Ponto_105">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="325" cy="806" r="12"></circle>
+  <text x="325" y="806" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">105</text>
+</g>
+<g id="Ponto_106">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="210" cy="298" r="12"></circle>
+  <text x="210" y="298" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">106</text>
+</g>
+<g id="Ponto_107">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="940" cy="905" r="12"></circle>
+  <text x="940" y="905" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">107</text>
+</g>
+<g id="Ponto_108">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="441" cy="798" r="12"></circle>
+  <text x="441" y="798" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">108</text>
+</g>
+<g id="Ponto_109">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="415" cy="730" r="12"></circle>
+  <text x="415" y="730" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">109</text>
+</g>
+<g id="Ponto_110">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="128" cy="752" r="12"></circle>
+  <text x="128" y="752" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">110</text>
+</g>
+<g id="Ponto_111">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="911" cy="597" r="12"></circle>
+  <text x="911" y="597" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">111</text>
+</g>
+<g id="Ponto_112">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="613" cy="967" r="12"></circle>
+  <text x="613" y="967" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">112</text>
+</g>
+<g id="Ponto_113">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="114" cy="894" r="12"></circle>
+  <text x="114" y="894" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">113</text>
+</g>
+<g id="Ponto_114">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="677" cy="528" r="12"></circle>
+  <text x="677" y="528" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">114</text>
+</g>
+<g id="Ponto_115">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="906" cy="989" r="12"></circle>
+  <text x="906" y="989" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">115</text>
+</g>
+<g id="Ponto_116">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="206" cy="726" r="12"></circle>
+  <text x="206" y="726" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">116</text>
+</g>
+<g id="Ponto_117">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="412" cy="346" r="12"></circle>
+  <text x="412" y="346" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">117</text>
+</g>
+<g id="Ponto_118">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="29" cy="938" r="12"></circle>
+  <text x="29" y="938" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">118</text>
+</g>
+<g id="Ponto_119">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="350" cy="445" r="12"></circle>
+  <text x="350" y="445" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">119</text>
+</g>
+<g id="Ponto_120">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="290" cy="551" r="12"></circle>
+  <text x="290" y="551" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">120</text>
+</g>
+<g id="Ponto_121">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="629" cy="506" r="12"></circle>
+  <text x="629" y="506" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">121</text>
+</g>
+<g id="Ponto_122">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="226" cy="615" r="12"></circle>
+  <text x="226" y="615" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">122</text>
+</g>
+<g id="Ponto_123">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="502" cy="454" r="12"></circle>
+  <text x="502" y="454" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">123</text>
+</g>
+<g id="Ponto_124">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="226" cy="766" r="12"></circle>
+  <text x="226" y="766" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">124</text>
+</g>
+<g id="Ponto_125">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="828" cy="912" r="12"></circle>
+  <text x="828" y="912" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">125</text>
+</g>
+<g id="Ponto_126">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="149" cy="691" r="12"></circle>
+  <text x="149" y="691" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">126</text>
+</g>
+<g id="Ponto_127">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="280" cy="91" r="12"></circle>
+  <text x="280" y="91" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">127</text>
+</g>
+<g id="Ponto_128">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="395" cy="906" r="12"></circle>
+  <text x="395" y="906" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">128</text>
+</g>
+<g id="Ponto_129">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="493" cy="435" r="12"></circle>
+  <text x="493" y="435" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">129</text>
+</g>
+<g id="Ponto_130">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="527" cy="68" r="12"></circle>
+  <text x="527" y="68" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">130</text>
+</g>
+<g id="Ponto_131">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="567" cy="77" r="12"></circle>
+  <text x="567" y="77" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">131</text>
+</g>
+<g id="Ponto_132">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="991" cy="743" r="12"></circle>
+  <text x="991" y="743" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">132</text>
+</g>
+<g id="Ponto_133">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="157" cy="498" r="12"></circle>
+  <text x="157" y="498" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">133</text>
+</g>
+<g id="Ponto_134">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="244" cy="101" r="12"></circle>
+  <text x="244" y="101" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">134</text>
+</g>
+<g id="Ponto_135">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="436" cy="615" r="12"></circle>
+  <text x="436" y="615" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">135</text>
+</g>
+<g id="Ponto_136">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="561" cy="99" r="12"></circle>
+  <text x="561" y="99" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">136</text>
+</g>
+<g id="Ponto_137">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="712" cy="184" r="12"></circle>
+  <text x="712" y="184" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">137</text>
+</g>
+<g id="Ponto_138">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="565" cy="751" r="12"></circle>
+  <text x="565" y="751" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">138</text>
+</g>
+<g id="Ponto_139">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="248" cy="770" r="12"></circle>
+  <text x="248" y="770" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">139</text>
+</g>
+<g id="Ponto_140">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="894" cy="899" r="12"></circle>
+  <text x="894" y="899" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">140</text>
+</g>
+<g id="Ponto_141">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="889" cy="388" r="12"></circle>
+  <text x="889" y="388" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">141</text>
+</g>
+<g id="Ponto_142">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="739" cy="36" r="12"></circle>
+  <text x="739" y="36" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">142</text>
+</g>
+<g id="Ponto_143">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="233" cy="561" r="12"></circle>
+  <text x="233" y="561" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">143</text>
+</g>
+<g id="Ponto_144">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="333" cy="498" r="12"></circle>
+  <text x="333" y="498" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">144</text>
+</g>
+<g id="Ponto_145">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="710" cy="213" r="12"></circle>
+  <text x="710" y="213" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">145</text>
+</g>
+<g id="Ponto_146">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="602" cy="295" r="12"></circle>
+  <text x="602" y="295" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">146</text>
+</g>
+<g id="Ponto_147">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="403" cy="342" r="12"></circle>
+  <text x="403" y="342" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">147</text>
+</g>
+<g id="Ponto_148">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="728" cy="428" r="12"></circle>
+  <text x="728" y="428" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">148</text>
+</g>
+<g id="Ponto_149">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="305" cy="694" r="12"></circle>
+  <text x="305" y="694" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">149</text>
+</g>
+<g id="Ponto_150">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="5" cy="618" r="12"></circle>
+  <text x="5" y="618" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">150</text>
+</g>
+<g id="Ponto_151">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="657" cy="538" r="12"></circle>
+  <text x="657" y="538" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">151</text>
+</g>
+<g id="Ponto_152">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="653" cy="914" r="12"></circle>
+  <text x="653" y="914" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">152</text>
+</g>
+<g id="Ponto_153">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="943" cy="757" r="12"></circle>
+  <text x="943" y="757" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">153</text>
+</g>
+<g id="Ponto_154">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="529" cy="604" r="12"></circle>
+  <text x="529" y="604" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">154</text>
+</g>
+<g id="Ponto_155">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="750" cy="761" r="12"></circle>
+  <text x="750" y="761" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">155</text>
+</g>
+<g id="Ponto_156">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="955" cy="270" r="12"></circle>
+  <text x="955" y="270" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">156</text>
+</g>
+<g id="Ponto_157">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="913" cy="878" r="12"></circle>
+  <text x="913" y="878" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">157</text>
+</g>
+<g id="Ponto_158">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="80" cy="368" r="12"></circle>
+  <text x="80" y="368" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">158</text>
+</g>
+<g id="Ponto_159">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="161" cy="453" r="12"></circle>
+  <text x="161" y="453" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">159</text>
+</g>
+<g id="Ponto_160">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="998" cy="464" r="12"></circle>
+  <text x="998" y="464" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">160</text>
+</g>
+<g id="Ponto_161">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="156" cy="61" r="12"></circle>
+  <text x="156" y="61" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">161</text>
+</g>
+<g id="Ponto_162">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="700" cy="544" r="12"></circle>
+  <text x="700" y="544" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">162</text>
+</g>
+<g id="Ponto_163">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="378" cy="740" r="12"></circle>
+  <text x="378" y="740" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">163</text>
+</g>
+<g id="Ponto_164">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="140" cy="662" r="12"></circle>
+  <text x="140" y="662" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">164</text>
+</g>
+<g id="Ponto_165">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="440" cy="388" r="12"></circle>
+  <text x="440" y="388" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">165</text>
+</g>
+<g id="Ponto_166">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="128" cy="724" r="12"></circle>
+  <text x="128" y="724" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">166</text>
+</g>
+<g id="Ponto_167">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="406" cy="288" r="12"></circle>
+  <text x="406" y="288" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">167</text>
+</g>
+<g id="Ponto_168">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="502" cy="417" r="12"></circle>
+  <text x="502" y="417" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">168</text>
+</g>
+<g id="Ponto_169">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="943" cy="896" r="12"></circle>
+  <text x="943" y="896" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">169</text>
+</g>
+<g id="Ponto_170">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="131" cy="719" r="12"></circle>
+  <text x="131" y="719" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">170</text>
+</g>
+<g id="Ponto_171">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="428" cy="202" r="12"></circle>
+  <text x="428" y="202" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">171</text>
+</g>
+<g id="Ponto_172">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="136" cy="907" r="12"></circle>
+  <text x="136" y="907" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">172</text>
+</g>
+<g id="Ponto_173">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="347" cy="229" r="12"></circle>
+  <text x="347" y="229" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">173</text>
+</g>
+<g id="Ponto_174">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="589" cy="717" r="12"></circle>
+  <text x="589" y="717" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">174</text>
+</g>
+<g id="Ponto_175">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="716" cy="158" r="12"></circle>
+  <text x="716" y="158" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">175</text>
+</g>
+<g id="Ponto_176">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="151" cy="693" r="12"></circle>
+  <text x="151" y="693" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">176</text>
+</g>
+<g id="Ponto_177">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="352" cy="531" r="12"></circle>
+  <text x="352" y="531" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">177</text>
+</g>
+<g id="Ponto_178">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="463" cy="867" r="12"></circle>
+  <text x="463" y="867" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">178</text>
+</g>
+<g id="Ponto_179">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="934" cy="517" r="12"></circle>
+  <text x="934" y="517" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">179</text>
+</g>
+<g id="Ponto_180">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="732" cy="399" r="12"></circle>
+  <text x="732" y="399" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">180</text>
+</g>
+<g id="Ponto_181">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="212" cy="701" r="12"></circle>
+  <text x="212" y="701" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">181</text>
+</g>
+<g id="Ponto_182">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="321" cy="634" r="12"></circle>
+  <text x="321" y="634" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">182</text>
+</g>
+<g id="Ponto_183">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="999" cy="401" r="12"></circle>
+  <text x="999" y="401" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">183</text>
+</g>
+<g id="Ponto_184">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="170" cy="186" r="12"></circle>
+  <text x="170" y="186" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">184</text>
+</g>
+<g id="Ponto_185">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="537" cy="969" r="12"></circle>
+  <text x="537" y="969" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">185</text>
+</g>
+<g id="Ponto_186">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="613" cy="228" r="12"></circle>
+  <text x="613" y="228" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">186</text>
+</g>
+<g id="Ponto_187">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="754" cy="1000" r="12"></circle>
+  <text x="754" y="1000" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">187</text>
+</g>
+<g id="Ponto_188">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="548" cy="552" r="12"></circle>
+  <text x="548" y="552" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">188</text>
+</g>
+<g id="Ponto_189">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="238" cy="138" r="12"></circle>
+  <text x="238" y="138" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">189</text>
+</g>
+<g id="Ponto_190">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="993" cy="150" r="12"></circle>
+  <text x="993" y="150" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">190</text>
+</g>
+<g id="Ponto_191">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="249" cy="267" r="12"></circle>
+  <text x="249" y="267" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">191</text>
+</g>
+<g id="Ponto_192">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="577" cy="220" r="12"></circle>
+  <text x="577" y="220" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">192</text>
+</g>
+<g id="Ponto_193">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="504" cy="765" r="12"></circle>
+  <text x="504" y="765" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">193</text>
+</g>
+<g id="Ponto_194">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="295" cy="30" r="12"></circle>
+  <text x="295" y="30" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">194</text>
+</g>
+<g id="Ponto_195">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="21" cy="63" r="12"></circle>
+  <text x="21" y="63" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">195</text>
+</g>
+<g id="Ponto_196">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="727" cy="450" r="12"></circle>
+  <text x="727" y="450" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">196</text>
+</g>
+<g id="Ponto_197">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="963" cy="504" r="12"></circle>
+  <text x="963" y="504" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">197</text>
+</g>
+<g id="Ponto_198">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="649" cy="82" r="12"></circle>
+  <text x="649" y="82" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">198</text>
+</g>
+<g id="Ponto_199">
+  <circle style="fill:#ffff33;stroke:#888888;stroke-width:2px;" cx="258" cy="904" r="12"></circle>
+  <text x="258" y="904" font-size="10" text-anchor="middle" alignment-baseline="central" dominant-baseline="central" stroke="black">199</text>
+</g>
+</svg>
